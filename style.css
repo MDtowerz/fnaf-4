@@ -3,3 +3,8 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.i-frame{
+  width: 720px;
+  height: 480px;
+}
